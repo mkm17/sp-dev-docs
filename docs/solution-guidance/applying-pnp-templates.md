@@ -1,7 +1,7 @@
 ---
 title: Applying PnP Templates to SharePoint Sites
 description: This article explains how to manually provision a look book PnP template using PnP PowerShell.
-ms.date: 04/10/2024
+ms.date: 05/06/2025
 ms.localizationpriority: high
 ---
 
